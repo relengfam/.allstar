@@ -1,0 +1,4 @@
+optConfig:
+  optOutStrategy: true
+# TODO: Switch to `issue` once we determine a security policy
+action: email
